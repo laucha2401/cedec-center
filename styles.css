@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --black: #070707;
   --black-soft: #101010;
   --panel: #151515;
@@ -196,7 +196,7 @@ button {
 }
 
 .hero-media {
-  background-image: url("assets/hero-boxeador.webp");
+  background-image: url("./assets/hero-cedec.jpg");
   background-repeat: no-repeat;
   background-size: auto 108%;
   background-position: right center;
@@ -963,3 +963,4 @@ h3 {
     transform: none;
   }
 }
+
